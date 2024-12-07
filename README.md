@@ -37,6 +37,8 @@
     <td align="center"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" /><br><b>Tableau</b></td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40" /><br><b>Excel</b></td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" /><br><b>Python</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" /><br><b>Power BI</b></td>
+    <td align="center"><img src="https://img.icons8.com/ios-filled/50/000000/microsoft-office-365.png" width="40" /><br><b>Microsoft Office</b></td>
   </tr>
 </table>
 
