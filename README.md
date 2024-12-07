@@ -21,7 +21,7 @@
 
 <h2>👨‍💻 About Me</h2>
 
-- 💡 Aspiring **Data Engineer**, currently building my foundation as a **Data Analyst**.
+- 💡 Aspiring **Data Engineer**, currently building my foundation as a **Data Analyst Fellow @ COOP Carrers**.
 - 📊 Experienced with **SQL, Tableau, Power BI**, and **Excel** for advanced analytics and visualization.
 - 🌟 Enjoy working on projects in **e-commerce**, **media**, and **entertainment** industries.
 - 🖋️ Writing technical tutorials and blogs on [Medium](https://medium.com/data-100).
@@ -58,16 +58,23 @@
 <h2>📫 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdurrahmanelkhadrawy" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:elkhadrawyabdurrahman@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://medium.com/data-100" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
+  <div style="margin: 10px; display: inline-block;">
+    <a href="https://www.linkedin.com/in/abdurrahmanelkhadrawy" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </div>
+  <div style="margin: 10px; display: inline-block;">
+    <a href="mailto:elkhadrawyabdurrahman@gmail.com" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+  </div>
+  <div style="margin: 10px; display: inline-block;">
+    <a href="https://medium.com/data-100" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    </a>
+  </div>
 </p>
+
 
 
 ---
