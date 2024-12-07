@@ -21,11 +21,11 @@
 
 <h2>👨‍💻 About Me</h2>
 
-- 💡 Aspiring **Big Tech Data Engineer**, currently building my foundation as a **Data Analyst**.
+- 💡 Aspiring **Data Engineer**, currently building my foundation as a **Data Analyst**.
 - 📊 Experienced with **SQL, Tableau, Power BI**, and **Excel** for advanced analytics and visualization.
 - 🌟 Enjoy working on projects in **e-commerce**, **media**, and **entertainment** industries.
-- 🖋️ Writing technical tutorials and blogs on [Medium](https://medium.com/your-profile-link).
-- 🏆 Google Analytics Certified | Microsoft Search Certified.
+- 🖋️ Writing technical tutorials and blogs on [Medium](https://medium.com/data-100).
+- 🏆 Microsoft Search Certified | Microsoft Display & Video Certified | Google Analytics(Coursera) | The Trade Desk Marketing Foundations & Data-Driven Planning
 
 ---
 
@@ -48,13 +48,13 @@
 <h2>📫 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile-link">
+  <a href="https://www.linkedin.com/in/abdurrahmanelkhadrawy">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:elkhadrawyabdurrahman@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"/>
   </a>
-  <a href="https://medium.com/your-profile-link">
+  <a href="https://medium.com/data-100">
     <img src="https://img.icons8.com/fluent/48/000000/medium-new.png" width="40"/>
   </a>
 </p>
