@@ -34,10 +34,10 @@
 <table>
   <tr>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/sql.png" width="40" /><br><b>SQL</b></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="100" /><br><b>Tableau</b></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="100" /><br><b>Excel</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" /><br><b>Tableau</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40" /><br><b>Excel</b></td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" /><br><b>Python</b></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/google-analytics.png" width="100" /><br><b>Google Analytics</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/google-analytics.png" width="40" /><br><b>Google Analytics</b></td>
   </tr>
 </table>
 
