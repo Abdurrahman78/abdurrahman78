@@ -46,12 +46,13 @@
 
 <h2>🚀 Highlighted Projects</h2>
 
-- **[Advertising Insights Dashboard](https://github.com/YourUsername/AdvertisingDashboard)**  
+- **[Advertising Insights Dashboard](https://github.com/Abdurrahman78/Campaign-Performance-Analysis)**  
    Built a Power BI and Tableau dashboard to optimize advertising campaigns, reducing CPA and increasing CTR with advanced data visualizations.
    
-- **[E-Commerce Database](https://github.com/YourUsername/ECommerceDB)**  
+- **[E-Commerce Database](https://github.com/Abdurrahman78/E-Commerce-Database)**  
    Designed and implemented a relational database for an online store using SQL, including advanced queries and reporting for sales analytics.
-
+- **[Box Office Profitability Analysis](https://github.com/Abdurrahman78/Box-Office-Analysis)**  
+   Conducted a data-driven analysis of box office trends using Excel and Tableau to identify factors impacting profitability, with visual storytelling to present insights.
 ---
 
 <h2>📫 Connect with Me</h2>
