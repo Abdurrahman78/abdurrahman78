@@ -43,21 +43,20 @@
 
 ---
 
----
-
 <h2>📫 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdurrahmanelkhadrawy">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40"/>
+  <a href="https://www.linkedin.com/in/abdurrahmanelkhadrawy" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40" style="margin-right: 20px;"/>
   </a>
-  <a href="mailto:elkhadrawyabdurrahman@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"/>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" width="40" style="margin-right: 20px;"/>
   </a>
-  <a href="https://medium.com/data-100">
-    <img src="https://img.icons8.com/fluent/48/000000/medium-new.png" width="40"/>
+  <a href="https://medium.com/data-100" target="_blank">
+    <img src="https://img.icons8.com/nolan/64/medium-new.png" alt="Medium" width="40"/>
   </a>
 </p>
+
 
 ---
 
