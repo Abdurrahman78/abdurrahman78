@@ -37,7 +37,6 @@
     <td align="center"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" /><br><b>Tableau</b></td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40" /><br><b>Excel</b></td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" /><br><b>Python</b></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/google-analytics.png" width="40" /><br><b>Google Analytics</b></td>
   </tr>
 </table>
 
@@ -47,10 +46,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdurrahmanelkhadrawy" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40" style="margin-right: 20px;"/>
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40" style="margin-right: 60px;"/>
   </a>
   <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" width="40" style="margin-right: 20px;"/>
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" width="40" style="margin-right: 60px;"/>
   </a>
   <a href="https://medium.com/data-100" target="_blank">
     <img src="https://img.icons8.com/nolan/64/medium-new.png" alt="Medium" width="40"/>
