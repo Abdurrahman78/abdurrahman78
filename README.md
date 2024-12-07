@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/your-profile-image.png" alt="Profile Image" width="200">
+  <img src="https://img.icons8.com/fluency/200/analytics.png" alt="Analytics Illustration" width="150">
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/abdurrahmanelkhadrawy" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40" style="margin-right: 60px;"/>
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:elkhadrawyabdurrahman@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" width="40" style="margin-right: 60px;"/>
   </a>
   <a href="https://medium.com/data-100" target="_blank">
